@@ -10,4 +10,8 @@ Before getting started, make sure you have the following installed:
 - Playwright
 - Faker.js
 
+## Install
+
+playwright : npm init playwright@latest
+fakerJs : npm install @faker-js/faker --save-dev
 Happy testing!
