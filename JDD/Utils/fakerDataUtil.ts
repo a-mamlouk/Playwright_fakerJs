@@ -1,4 +1,4 @@
-import {Faker, faker, fakerFR} from '@faker-js/faker';
+import {faker, fakerFR} from '@faker-js/faker';
 import * as fs from 'fs';
 // import * as createCsvWriter from 'csv-writer';
 import path from 'path';
